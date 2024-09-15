@@ -1,0 +1,17 @@
+img {
+    /* border: 3px solid red; */
+    height: 90vh;
+    width: auto;
+}
+
+#slides {
+    white-space: nowrap;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 992px) {
+    /* formatting for mobile */
+    /* makes the slides vertical instead of horizontal */
+    #slides {display: grid;}
+    img {width: 90vw; height: auto;}
+}

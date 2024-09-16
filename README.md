@@ -14,3 +14,13 @@
 - https://web.archive.org/web/20110708194303/http://cornellsun.com/node/26008
 - (pending) nyt webarchive
 - https://www.reddit.com/r/GoogleSlides/comments/i4epse/how_do_i_create_a_transparent_blur_effect_in/
+
+# Softwares:
+
+- HTML
+- CSS
+- PowerPoint
+- Adobe Premiere Pro
+- OBS Studio
+- ffmpeg
+

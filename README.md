@@ -21,6 +21,7 @@
 - CSS
 - PowerPoint
 - Adobe Premiere Pro
+- Adobe Media Encoder
 - OBS Studio
 - ffmpeg
 

@@ -12,7 +12,7 @@
 - https://en.wikipedia.org/wiki/1922_Columbia_Lions_football_team
 - https://en.wikipedia.org/wiki/Fifth_Down_Game_(1940)
 - https://web.archive.org/web/20110708194303/http://cornellsun.com/node/26008
-- (pending) nyt webarchive
+- https://www.nytimes.com/1940/11/19/archives/dartmouth-3-cornell-o-official-score-as-ithacans-refuse-victory.html
 - https://www.reddit.com/r/GoogleSlides/comments/i4epse/how_do_i_create_a_transparent_blur_effect_in/
 
 # Softwares:
